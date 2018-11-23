@@ -2,6 +2,9 @@
 A 3D Slicer Module that 1. uses ROBEX brain extraction to generate mesh.obj;  2. tumor label mask to mesh.obj
 
 A custom 3D Slicer module/extension for generating .obj file to be used in Unity 3D  
+
+![alt text](https://cdn-images-1.medium.com/max/1000/1*LNTgrwKMiup_Nw44wnTRcw.png)
+
 1. To install a custom module/extension, you have to copy your script to your 3dslicer module folder.  
 2. To find where 3dslicer module folder is, start 3dslicer, click edit/settings/modules, under “Additional module paths”, you will see the module folders.  
 3. Copy script to module folder.  
